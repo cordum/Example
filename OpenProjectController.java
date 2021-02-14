@@ -11,7 +11,7 @@ import org.springframework.stereotype.Controller;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
-//Дениска
+//Deniska
 @Controller
 public class OpenProjectController implements Initializable {
     private final ApplicationContext context;
